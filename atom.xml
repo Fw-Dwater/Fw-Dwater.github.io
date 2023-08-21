@@ -3,14 +3,14 @@
   <title>Sun&amp;Water</title>
   
   <subtitle>Memory</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://fw-dwater.github.io/Fw-Dwater.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://fw-dwater.github.io/Fw-Dwater.github.io/"/>
   <updated>2023-08-20T15:40:11.223Z</updated>
-  <id>http://example.com/</id>
+  <id>https://fw-dwater.github.io/Fw-Dwater.github.io/</id>
   
   <author>
-    <name>❤小肥阳❤</name>
+    <name>小肥阳</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>to my 小肥阳</title>
-    <link href="http://example.com/2023/08/20/to-my-%E5%B0%8F%E8%82%A5%E9%98%B3/"/>
-    <id>http://example.com/2023/08/20/to-my-%E5%B0%8F%E8%82%A5%E9%98%B3/</id>
+    <link href="https://fw-dwater.github.io/Fw-Dwater.github.io/2023/08/20/to-my-%E5%B0%8F%E8%82%A5%E9%98%B3/"/>
+    <id>https://fw-dwater.github.io/Fw-Dwater.github.io/2023/08/20/to-my-%E5%B0%8F%E8%82%A5%E9%98%B3/</id>
     <published>2023-08-20T15:33:34.000Z</published>
     <updated>2023-08-20T15:40:11.223Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="one&amp;only" scheme="http://example.com/tags/one-only/"/>
+    <category term="one&amp;only" scheme="https://fw-dwater.github.io/Fw-Dwater.github.io/tags/one-only/"/>
     
   </entry>
   
   <entry>
     <title>张嘉璇_album</title>
-    <link href="http://example.com/2023/08/20/%E5%BC%A0%E5%98%89%E7%92%87-album/"/>
-    <id>http://example.com/2023/08/20/%E5%BC%A0%E5%98%89%E7%92%87-album/</id>
+    <link href="https://fw-dwater.github.io/Fw-Dwater.github.io/2023/08/20/%E5%BC%A0%E5%98%89%E7%92%87-album/"/>
+    <id>https://fw-dwater.github.io/Fw-Dwater.github.io/2023/08/20/%E5%BC%A0%E5%98%89%E7%92%87-album/</id>
     <published>2023-08-20T15:21:11.000Z</published>
     <updated>2023-08-20T15:21:20.141Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>Sun&amp;Water</title>
-    <link href="http://example.com/2023/08/20/Sun-Water/"/>
-    <id>http://example.com/2023/08/20/Sun-Water/</id>
+    <link href="https://fw-dwater.github.io/Fw-Dwater.github.io/2023/08/20/Sun-Water/"/>
+    <id>https://fw-dwater.github.io/Fw-Dwater.github.io/2023/08/20/Sun-Water/</id>
     <published>2023-08-20T08:19:33.000Z</published>
     <updated>2023-08-20T15:17:24.493Z</updated>
     
